@@ -1,0 +1,14 @@
+{"intents": [
+    {"tag":["greeting"], 
+     "patterns": ["hi there","hello","is anyone there"],
+     "responses": ["hey there","how can i help you"]
+    },
+    {
+      "tag":["good bye"],
+      "patterns": ["ok bye ","meet you soon","see you later"],
+     "responses": ["it was nice meeting you ","thank you have a nice day","see you soon"]
+    }
+  ]
+}
+
+    
